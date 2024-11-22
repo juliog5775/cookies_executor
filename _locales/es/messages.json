@@ -1,0 +1,34 @@
+{
+    "extension_name": {
+      "message": "Ejecutor de Cookies",
+      "description": "Elimina todas las cookies de la pagina actual con un click"
+    },
+
+    "extension_description": {
+    "message": "Elimina cookies de la página actual con un solo click",
+     "description": "Elimina cookies de la página actual con un solo click"},
+    "popup_title": {
+      "message": "Cookies Executor",
+      "description": "Título del popup"
+    },
+    "delete_button": {
+      "message": "Limpiar Cookies",
+      "description": "Texto para el botón"
+    },
+    "error_no_tab": {
+      "message": "No se pudo obtener la pestaña actual.",
+      "description": "Mensaje de error cuando no se puede obtener la pestaña."
+    },
+    "error_no_cookies": {
+      "message": "No se encontraron cookies para este dominio.",
+      "description": "Mensaje de error cuando no se encuentran cookies."
+    },
+    "cookies_deleted": {
+      "message": "Se eliminaron {1} cookies para el dominio: {2}",
+      "description": "Mensaje que indica cuántas cookies fueron eliminadas."
+    },
+    "error_generic": {
+      "message": "Ocurrió un error al intentar eliminar las cookies. Consulta la consola para más detalles.",
+      "description": "Mensaje de error genérico"
+    }
+  }
